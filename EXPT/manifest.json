@@ -1,0 +1,11 @@
+{
+    "name": "Smart Budget Expense Tracker",
+    "short_name": "SmartBudget",
+    "description": "Track your budget and daily expenses",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f5f7ff",
+    "theme_color": "#6c63ff",
+    "orientation": "portrait"
+    
+}
